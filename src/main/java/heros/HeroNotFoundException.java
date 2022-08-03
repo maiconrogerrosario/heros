@@ -1,4 +1,4 @@
-package hero;
+package heros;
 
 class HeroNotFoundException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package hero;
+package heros;
 
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*;
 

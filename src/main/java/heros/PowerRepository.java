@@ -1,4 +1,4 @@
-package hero;
+package heros;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
