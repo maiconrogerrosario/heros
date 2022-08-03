@@ -1,6 +1,6 @@
 # heros
 heros bis2bis
-<<<<<<< HEAD
+
 
 # Banco de dados Postgree
 
@@ -8,5 +8,3 @@ heros bis2bis
 username=gubee
 password=gubee
 schema=interview_service
-=======
->>>>>>> branch 'main' of git@github.com:maiconrogerrosario/heros.git
